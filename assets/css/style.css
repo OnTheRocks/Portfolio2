@@ -1,0 +1,35 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 18px;
+    line-height: 150%;
+    color: #333;
+    background-image: url("../images/cubes.png");    
+}
+
+.navbar {
+
+    background: white;
+    padding: 0px 300px 0px 150px;
+    border-bottom: 2px solid #dddddd;
+}
+
+
+
+.container {
+
+    margin-top: 50px;
+    background-color: white;
+    /* border: thin solid black; */
+}
+
+.row {
+    text-align: center;
+    
+}
+
+.col-lg-4 {
+
+    padding: 10px 0px;
+}
