@@ -35,6 +35,10 @@ p {
     margin-bottom: 25px;
 }
 
+.jumbotron {
+  background-color: white;
+}
+
 footer {
   
     position: fixed;
@@ -55,8 +59,13 @@ footer {
   
   .card {
 
-    margin: 100px auto ;
+    margin: 10px;
 
+  }
+
+  .card-body{
+
+    background-image: url("../images/cubes.png");
   }
 
 .button {
@@ -64,3 +73,4 @@ footer {
     color: #dddddd;
     background-color:  #4aaaa5;
   }
+
